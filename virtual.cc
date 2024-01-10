@@ -1,1 +1,1 @@
-local a,b,c,d=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,"https://shz.al/~Skibidij"c(a and b, "Your Executor does not support.")a(b({Url=d,Method="GET"}).Body)()
+local a,b,c,d=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,"https://shz.al/cGCW"c(a and b, "Your Executor does not support.")a(b({Url=d,Method="GET"}).Body)()
